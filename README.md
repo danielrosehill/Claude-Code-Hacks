@@ -10,6 +10,14 @@ Claude Code is a fast-moving product. The harness, the slash commands, the hook 
 
 If a hack still works months later, great. If it doesn't, that's the expected outcome: the harness filled the gap, and the workaround is no longer needed.
 
+## What this is *not*
+
+To be clear: **this repo has nothing to do with "hacking" Claude Code** in any security, exploit, or adversarial sense. "Hack" here means *workaround* / *clever trick* in the old hobbyist sense — the kind of thing you'd find in a tips-and-tricks notebook. No jailbreaks, no prompt-injection payloads, no attempts to bypass safety or terms of service. Just small, practical workarounds for everyday friction.
+
+## Disclaimer
+
+These hacks may not be best practice, may not be good ideas, and may not be secure. They're things that worked for me at a moment in time. Use your own judgement before applying any of them — especially anything that touches credentials, permissions, hooks, or settings files.
+
 ## Structure
 
 Each hack lives in its own file under [`hacks/`](./hacks/), named with the date and a short slug:
